@@ -1,6 +1,6 @@
 # Hi there, I'm Kojo! 👋
 
-(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/PATH_TO_IMAGE.png)
+![image](https://github.com/user-attachments/assets/ab0edb3d-9e65-4396-8ed0-684f426ebd1e)
 
 
 ## About Me 🚀
