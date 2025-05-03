@@ -1,6 +1,6 @@
 # Hi there, I'm Kojo! 👋
 
-![Kojo Banner](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/PATH_TO_IMAGE.png)
+(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/PATH_TO_IMAGE.png)
 
 
 ## About Me 🚀
